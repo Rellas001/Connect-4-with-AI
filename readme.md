@@ -3,7 +3,7 @@
 # numpy
 # sys
 # math
-#random
+# random
 ```py
 import numpy as np
 import pygame
